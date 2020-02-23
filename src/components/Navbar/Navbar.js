@@ -25,6 +25,7 @@ class Navbar extends Component {
       <div className="g-nav g-nav-item">Home</div>
       <div className="g-nav g-nav-item">Backlogs</div>
       <div className="g-nav g-nav-item">Pull Request</div>
+      <div className="g-nav g-nav-item">Release</div>
       </div>
     );
   }
