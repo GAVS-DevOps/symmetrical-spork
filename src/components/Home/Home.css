@@ -1,0 +1,13 @@
+/*
+ * Home css File
+*/
+
+.Home {
+    /* propertys here */
+}
+
+.g-home-container {
+    background-color: rgba(0, 183, 255, 0.658);
+    width: 100%;
+    height: 600px;
+}
