@@ -1,0 +1,31 @@
+/*
+ * Navbar css File
+*/
+
+.Navbar {
+    /* propertys here */
+}
+
+.g-nav-items {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 80%;
+    height: 120px;
+    margin: 0 auto
+}
+
+.g-nav {
+    margin-right: 25px;
+}
+
+.g-nav-logo img {
+    height: 90px;
+}
+
+.g-nav-item {
+    color: #27c5b5;
+    font-size: 20px;
+    padding: 25px;
+}

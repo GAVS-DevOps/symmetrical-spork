@@ -1,13 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import Navbar from './components/Navbar/Navbar';
+import Login from './components/Loginbutton/Loginbutton'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        GAVAS
-      </header>
+      <nav className="g-nav-bar">
+        <Navbar></Navbar>
+        <Login/>
+      </nav>
     </div>
   );
 }
