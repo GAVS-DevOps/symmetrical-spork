@@ -1,11 +1,7 @@
 import React, { Component } from 'react';
 import './Navbar.css';
 
-<<<<<<< HEAD
 import logo from "../../assets/img/logo.png";
-=======
-import logo from "../../assets/img/gavas.png";
->>>>>>> d0498e9b9de5017fb1a400843c16a878a682ce33
 
 class Navbar extends Component {
   // constructor(props){
