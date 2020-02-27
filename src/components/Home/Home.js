@@ -1,7 +1,11 @@
 import React, { Component } from 'react';
 import './Home.css';
 
+<<<<<<< HEAD
 import homedesigner from '../../assets/img/dc.png';
+=======
+import homedesigner from '../../assets/img/Home Designer.png';
+>>>>>>> d0498e9b9de5017fb1a400843c16a878a682ce33
 
 class Home extends Component {
   // constructor(props){

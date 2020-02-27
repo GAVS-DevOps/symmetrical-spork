@@ -7,7 +7,11 @@
 }
 
 .g-home-container {
+<<<<<<< HEAD
     background-color: #ffffff;
+=======
+    background-color: rgba(0, 183, 255, 0.658);
+>>>>>>> d0498e9b9de5017fb1a400843c16a878a682ce33
     width: 100%;
     height: 600px;
 }
