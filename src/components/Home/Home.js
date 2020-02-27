@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Home.css';
 
-import homedesigner from '../../assets/img/Home Designer.png';
+import homedesigner from '../../assets/img/dc.png';
 
 class Home extends Component {
   // constructor(props){

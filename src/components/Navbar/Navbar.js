@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Navbar.css';
 
-import logo from "../../assets/img/gavas.png";
+import logo from "../../assets/img/logo.png";
 
 class Navbar extends Component {
   // constructor(props){

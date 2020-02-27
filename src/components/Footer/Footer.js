@@ -18,7 +18,7 @@ class Footer extends Component {
 
   render() {
     return (
-      <div  className="g-footer-copyright"> &copy; All Rights reserved by GAVAS 2020</div>
+      <div  className="g-footer-copyright"> &copy; All Rights reserved by GAVS 2020</div>
     );
   }
 }
